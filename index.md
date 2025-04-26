@@ -1,4 +1,7 @@
 ---
+title: Home
 ---
 
-# tonic-starter
+# keith's brand-spanking-new Jekyll theme
+
+holy smokes...
