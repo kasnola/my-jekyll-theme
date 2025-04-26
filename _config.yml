@@ -1,6 +1,10 @@
 title: my-jekyll-theme
-# TODO: come up with a cool name
-description: ""
+# TODO: come up with a cool name. naming things is hard bcoz all of the cool names are taken already...
+
+# author: Keith A. Smith
+
+description: "a really cool jekyll theme..."
+
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
