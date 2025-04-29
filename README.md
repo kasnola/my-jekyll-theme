@@ -1,12 +1,40 @@
-# TODO: come up with a cool name
+# Wannabee
 
-my brand-spanking-new [Jekyll](https://jekyllrb.com) theme
+Wannabee is a retro and anachronistic Jekyll theme inspired by older computers.
 
-i will name it something cool when I am finished w/ all the tasks @ Tonic ...
+Wannabee is being created for Hack Club's [Tonic](https://tonic.hackclub.com/), a [You Ship, We Ship (YSWS)](https://hackclub.com/ship/) about building Jekyll themes.
 
-<!-- This template is intentionally left incomplete; users should play through Tonic to learn how to make a full-featured theme.
+<!-- ## History  -->
 
-# Usage
-1. At the top of this page, select **Use this template** &gt; **Create a new repository** to clone the template to your account.
-2. Create a codespace from the created repository (for beginners) or use `git clone` (for advanced users) to start pushing commits.
-3. Run `gem install jekyll`, then `jekyll serve` to see the template in action. -->
+<!-- TODO: write a history? -->
+
+## Inspirations
+
+In no particular order, Wannabee is inspired by:
+
+<!-- TODO: MORE LIST ITEMS  -->
+
+- [int10h.org](https://int10h.org).
+- [The Ultimate Oldschool PC Font Pack](https://int10h.org/oldschool-pc-fonts/).
+- the fictional operating system "piOS" from the game [SUPERHOT](https://superhotgame.com/).
+- people that wish they could've worked somewhere like the old Bell Labs.
+
+But this is a _tiny_ list. For more of Wannabee's inspirations, please visit the evolving [moodboard](./inspo/moodboard/moodboard.png).
+
+<!-- TODO: i should probably write some code to manage PureRef -->
+
+## Credits
+
+Thank you to Hack Club.
+
+<!-- TODO: gush about how Hack Club is sending out hats and an AMA with Tom Preston-Werner, the creator of Jekyll and founder of GitHub???  -->
+
+Thank you to Lux Loff for launching the [Tonic](https://tonic.hackclub.com/) YSWS.
+
+<!-- TODO: link to Oldschool PC Font Pack properly because i'm probably gonna end up using it throughout the course of the project -->
+
+<!-- ## Further reading -->
+
+<!-- https://github.com/jonathanlilly/ghostly -->
+
+<!-- yeah, let's link to a history section over here instead -->
